@@ -1,0 +1,162 @@
+.card {
+    background-color:white;
+    height:120vh ;
+    width:100vw;
+    margin:4px;
+    border-left: 16px solid yellow;
+    border-right:16px solid yellow;
+    border-bottom:none;
+    border-top:16px solid red;
+}
+.blue-card{
+    background-color:#c3e7f7;
+    float:left;
+    margin:0px;
+    height:120vh;
+    width:30vw;
+}
+.first_textarea{
+    width:15vw;
+    height:60px;
+    resize:none;
+    overflow-y:scroll;
+    direction:ltr;
+    margin-left:5px;
+    margin-top:5px;
+    boder-color:black;
+}
+h4{
+    margin:0px;
+    margin-left:5px;
+}
+.date{
+    width:100px;
+    height:20px;
+    margin-left:5px;
+}
+.type_date{
+    margin-left:5px;
+}
+.card2{
+    height:70px;
+    width:150px;
+    margin:10px;
+    background-color:#aadaf0;
+    border-radius:4px;
+    display:inline-block;
+}
+h5{
+    display:inline;
+}
+.text-space{
+    margin:5px;
+    width:20vw;
+    border-color:black;
+}
+.second-textarea{
+    width:20vw;
+    height:60px;
+    resize:none;
+    overflow-y:scroll;
+    direction:ltr;
+    margin-left:5px;
+    margin-top:5px;
+    border-color:black;
+    
+    
+}
+.button1{
+    background-color:#c9c6c5;
+    color:green;
+    height:30px;
+    width:100px;
+    border-radius:2px;
+    border-width:0px;
+    margin-left:5px;
+    margin-right:5px;
+}
+.button2{
+    background-color:#c9c6c5;
+    height:30px;
+    width:100px;
+    border-radius:2px;
+    color:red;
+    border-width:0px;
+    margin-right:5px;
+}
+.button3{
+    background-color:#c9c6c5;
+    color:black;
+    height:30px;
+    width:100px;
+    border-radius:2px;
+    border-width:0px;
+    
+}
+.white-card{
+    background-color:white;
+    float:right;
+    margin: top -40px;
+    padding:-2px;
+    height:120vh;
+    width:70vw;
+    
+}
+h1{
+    margin-left:2px;
+}
+p{
+    margin-left: 2px;
+}
+hr{
+    border-color: black;
+}
+.card3{
+    height:100px;
+    width:400px;
+    margin:10px;
+    background-color:#aadaf0;
+    border-radius:0px;
+    
+}
+.date-type{
+    height:20px;
+    width: 40px;
+    margin-left:2px;
+    margin-top:2px;
+}
+.image{
+    height:20px;
+    width:20px;
+    margin-top:4px;
+}
+.text-space2{
+    margin:5px;
+    width:40vw;
+    border-color:black;
+}
+.card4{
+    background-color:#f5ec8c;
+    height:14vh;
+    width:60vw;
+}
+.button4{
+    color:green;
+    margin-left:100px;
+    margin-top:30px;
+    border-width:0px;
+    background-color:#c9c6c5;
+    height:30px;
+    width:100px;
+    border-radius:10px;
+}
+.button5{
+    background-color:#c9c6c5;
+    color:black;
+    border-width:0px;
+    margin-top:30px;
+    margin-left:200px;
+    height:30px;
+    width:100px;
+    border-radius:10px;
+}
